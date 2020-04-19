@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=Choin_main1_0.SchDoc|Designator=LED|SchDesignator=LED|FileName=Choin_led1_0.SchDoc|SymbolType=Normal|RawFileName=Choin_led1_0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Choin_main1_0.SchDoc|Designator=Rezystory ogr.|SchDesignator=Rezystory ogr.|FileName=Choin_rez1_0.SchDoc|SymbolType=Normal|RawFileName=Choin_rez1_0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Choin_main1_0.SchDoc|Designator=Tranzystory|SchDesignator=Tranzystory|FileName=Choin_tran1_0.SchDoc|SymbolType=Normal|RawFileName=Choin_tran1_0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Choin_main1_0.SchDoc|Designator=Zlacza|SchDesignator=Zlacza|FileName=Choin_zlacza.SchDoc|SymbolType=Normal|RawFileName=Choin_zlacza.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=Choin_main1_0.SchDoc

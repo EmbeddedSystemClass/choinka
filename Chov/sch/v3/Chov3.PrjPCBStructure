@@ -1,0 +1,3 @@
+Record=SheetSymbol|SourceDocument=Chov3_main.SchDoc|Designator=CPU|SchDesignator=CPU|FileName=Chov3_cpu.SchDoc|SymbolType=Normal|RawFileName=Chov3_cpu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Chov3_main.SchDoc|Designator=LED|SchDesignator=LED|FileName=Chov3_led.SchDoc|SymbolType=Normal|RawFileName=Chov3_led.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=Chov3_main.SchDoc

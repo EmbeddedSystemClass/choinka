@@ -1,0 +1,35 @@
+INCLUDE "lpm_counter.inc";
+
+
+
+SUBDESIGN PWM8B
+(
+	clock	 : INPUT;
+	set: INPUT;
+	ce: INPUT;
+	duty[7..0]: INPUT;
+	pwm_out	 : OUTPUT;
+)
+
+VARIABLE
+
+	lpm_counter_component : lpm_counter WITH (
+			LPM_WIDTH = 8,
+			LPM_TYPE = "LPM_COUNTER",
+			LPM_DIRECTION = "UP"
+			);
+	reg[7..0]: dff;
+
+BEGIN
+
+	lpm_counter_component.clock = clock;
+	reg[].clk = set & ce;
+	reg[].d= duty[];
+	if lpm_counter_component.q[] > reg[] THEN
+		pwm_out=GND;
+	ELSE 
+		pwm_out=VCC;
+	END IF;
+END;
+
+

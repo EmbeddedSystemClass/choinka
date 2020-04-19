@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Chov3F.PcbDoc   2017-01-01  18:11:01
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Chov3F.TXT
+EIA File   : Chov3F.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15.75mil (0.40005mm)     Round          660              106.75 Inch (2711.44 mm)
+T2        27.56mil (0.70002mm)     Round          120              32.89 Inch (835.40 mm)
+T3        31.5mil (0.8001mm)       Round          120              34.28 Inch (870.78 mm)
+T4        40mil (1.016mm)          Round          120              37.07 Inch (941.62 mm)
+---------------------------------------------------------------------------
+Totals                                            1020             210.99 Inch (5359.23 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

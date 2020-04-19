@@ -1,0 +1,24 @@
+INCLUDE "lpm_counter.inc";
+
+
+
+SUBDESIGN PWM
+(
+	clock	 : INPUT;
+	pwm_out	 : OUTPUT;
+)
+
+VARIABLE
+
+	lpm_counter_component : lpm_counter WITH (
+			LPM_WIDTH = 8,
+			LPM_TYPE = "LPM_COUNTER",
+			LPM_DIRECTION = "UP"
+			);
+
+BEGIN
+
+	lpm_counter_component.clock = clock;
+END;
+
+

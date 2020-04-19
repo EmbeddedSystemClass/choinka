@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Design\MLACH\Choinka\pld\simulation\qsim
+vchoin
+Z1 !s100 BUgSUbb:fnFh0O@RAB:5>2
+Z2 I95nUnzi@k@`VbO2<>[e4[3
+Z3 VO>FBXe>MB_nZ70EQH9JjV3
+Z4 dE:\Design\MLACH\Choinka\pld\simulation\qsim
+Z5 w1391628247
+Z6 8choin.vo
+Z7 Fchoin.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|choin.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1391628247.920000
+Z12 !s107 choin.vo|
+!s101 -O0
+vchoin_vlg_check_tst
+!i10b 1
+Z13 !s100 cY7^DfH;RVIVl85TLW>Z[1
+Z14 I[>[8fX]RN;SNUllmLf3<e2
+Z15 VUF=fhan9Qbg7?^3kPJHBC3
+R4
+Z16 w1391628246
+Z17 8choin.vt
+Z18 Fchoin.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z19 !s108 1391628247.965000
+Z20 !s107 choin.vt|
+Z21 !s90 -work|work|choin.vt|
+!s101 -O0
+R10
+vchoin_vlg_sample_tst
+!i10b 1
+Z22 !s100 S?leVMeW`KgGhjW;SMY`83
+Z23 IQAb>G?Vn0MLem3oPaP8@F3
+Z24 VAJKZUizgZe2F@^>WJM6@33
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vchoin_vlg_vec_tst
+!i10b 1
+!s100 _oGYaz:ZBobl`VncXQL940
+IdHfAk3ceYS0>Uh:2MVEV41
+Z25 VdAe3aLbdz<edb:JDV>9^02
+R4
+R16
+R17
+R18
+Z26 L0 156
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
